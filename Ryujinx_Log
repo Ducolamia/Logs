@@ -1,0 +1,27 @@
+00:00:00.104 |I| Configuration LogValueChange: ResScale set to: 1
+00:00:00.110 |I| Configuration LogValueChange: ResScaleCustom set to: 1
+00:00:00.111 |I| Configuration LogValueChange: MaxAnisotropy set to: -1
+00:00:00.112 |I| Configuration LogValueChange: AspectRatio set to: Fixed16x9
+00:00:00.114 |I| Configuration LogValueChange: BackendThreading set to: Auto
+00:00:00.115 |I| Configuration LogValueChange: GraphicsBackend set to: Vulkan
+00:00:00.116 |I| Configuration LogValueChange: PreferredGpu set to: 0x1002_0x163F
+00:00:00.120 |I| Configuration LogValueChange: EnableDockedMode set to: True
+00:00:00.121 |I| Configuration LogValueChange: EnableVsync set to: False
+00:00:00.121 |I| Configuration LogValueChange: EnableShaderCache set to: True
+00:00:00.121 |I| Configuration LogValueChange: EnableTextureRecompression set to: False
+00:00:00.121 |I| Configuration LogValueChange: EnableMacroHLE set to: True
+00:00:00.121 |I| Configuration LogValueChange: EnablePtc set to: True
+00:00:00.121 |I| Configuration LogValueChange: EnableInternetAccess set to: False
+00:00:00.121 |I| Configuration LogValueChange: EnableFsIntegrityChecks set to: True
+00:00:00.121 |I| Configuration LogValueChange: FsGlobalAccessLogMode set to: 0
+00:00:00.122 |I| Configuration LogValueChange: AudioBackend set to: SDL2
+00:00:00.123 |I| Configuration LogValueChange: AudioVolume set to: 0.9
+00:00:00.124 |I| Configuration LogValueChange: MemoryManagerMode set to: HostMappedUnsafe
+00:00:00.124 |I| Configuration LogValueChange: ExpandRam set to: False
+00:00:00.124 |I| Configuration LogValueChange: IgnoreMissingServices set to: False
+00:00:00.128 |N| Application PrintSystemInfo: Ryujinx Version: 1.1.494
+00:00:00.142 |N| Application Print: Operating System: Linux 5.13.0-valve36-1-neptune #1 SMP PREEMPT Mon, 19 Dec 2022 23:39:41 +0000 (X64)
+00:00:00.142 |N| Application Print: CPU: AMD Custom APU 0405   AmdCcxVhFf3PeiInit Entry ; 8 logical
+00:00:00.144 |N| Application Print: RAM: Total 14818 MiB ; Available 13366 MiB
+00:00:00.148 |N| Application PrintSystemInfo: Logs Enabled: Info, Warning, Error, Guest, Stub
+00:00:00.149 |N| Application PrintSystemInfo: Launch Mode: UserProfile
